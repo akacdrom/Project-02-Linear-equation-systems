@@ -1,0 +1,16 @@
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.csprojAssemblyReference.cache
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.AssemblyInfoInputs.cache
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.AssemblyInfo.cs
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.csproj.CoreCompileInputs.cache
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\project2.exe
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\project2.deps.json
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\project2.runtimeconfig.json
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\project2.runtimeconfig.dev.json
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\project2.dll
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\ref\project2.dll
+C:\Users\akkus\Desktop\project2\bin\Debug\net5.0\project2.pdb
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.dll
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\ref\project2.dll
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.pdb
+C:\Users\akkus\Desktop\project2\obj\Debug\net5.0\project2.genruntimeconfig.cache
