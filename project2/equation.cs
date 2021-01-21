@@ -92,15 +92,15 @@ namespace Project2
             for (int k=0; k<equations.Count(); k++)
             {
                
-                double anan = (double) intList2[k] / intList[k];
-                //Console.WriteLine(k+". Division: "+anan);
+                double factor = (double) intList2[k] / intList[k];
+                //Console.WriteLine(k+". Division: "+factor);
 
                 try
                 {
                     for (int i = k; i < equations.Count() +2; i++)
                     {
-                        double sikik = (intList2[i])-(anan)*(intList[i]);
-                        Console.Write(" "+sikik+" ");
+                        double answer = (intList2[i])-(factor)*(intList[i]);
+                        Console.Write(" "+answer+" ");
                     } 
                 }
                 catch (System.ArgumentOutOfRangeException)
